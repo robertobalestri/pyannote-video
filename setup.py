@@ -51,7 +51,7 @@ setup(
         'munkres >= 1.0.7',
         'moviepy == 0.2.3.4',
         'pandas >= 0.20.3',        
-        'imageio == 2.4.1'
+        'imageio'
     ],
 
     version=versioneer.get_version(),
